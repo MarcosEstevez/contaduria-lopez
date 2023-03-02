@@ -1,0 +1,11 @@
+=======================Epica equipo 6 =================
+
+Se necesita desarrollar una aplicación para uno de nuestros clientes contadores, el cual requiere:
+
+El regustro de los Empleados por el nombre completo ( Longitud 50 caracteres), número de telefono ( 10 dígitos)
+cuit,número de legajo (sugerir formato ) y el puesto del empleado ( longitud  50caracteres)
+
+Otra petición es identificar el Sector : nombre sector ( sugerir formato) y Numero de piso ( 3 dígitos )
+
+y por último y muy importante es definir el  Sueldos debe contener el nombre del empleado,
+el sector al que pertenece , su sueldo neto (hasta  5 enteros con 2 decimales ) , sueldo bruto(hasta  5 enteros con 2 decimales )
